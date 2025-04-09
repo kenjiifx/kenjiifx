@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Aspiring Software Developer | Passionate about coding, problem-solving, and innovation.<br><br>💻 Tech Stack | Experienced in JavaScript, React, Python, and web development.<br><br>📚 Lifelong Learner | Always exploring new technologies and improving my skills.<br><br>🌎 Building for Impact | Creating projects that make a difference in the community.
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/85kRxRgS) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moosa-alam-470029310) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moosahameed07@gmail.com) 
