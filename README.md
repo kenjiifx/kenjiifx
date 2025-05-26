@@ -64,7 +64,6 @@ Hi! I'm Moosa, a high school student and self-driven developer based in Ontario,
 - Writing cleaner, maintainable, and scalable code
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kenjiifx&icon=5&color=6" />
+  <img src="https://count.getloli.com/get/@kenjiifx?theme=rule34" alt="Visitor Count" />
 </p>
