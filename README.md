@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🚀 Aspiring Software Developer | Passionate about coding, problem-solving, and innovation.<br><br>💻 Tech Stack | Experienced in JavaScript, React, Python, and web development.<br><br>📚 Lifelong Learner | Always exploring new technologies and improving my skills.<br><br>🌎 Building for Impact | Creating projects that make a difference in the community.
 
 ## 🌐 Socials: 
