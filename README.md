@@ -59,7 +59,7 @@ Hi! I'm Moosa, a high school student and self-driven developer based in Ontario,
 
 ### 🔍 Currently Exploring
 
-- Building a **fitness tracker** app with **React & Firebase**
+- Building a **fitness tracker** app with **Java**
 - Automating small tasks using **Python scripts**
 - Writing cleaner, maintainable, and scalable code
 
