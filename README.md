@@ -65,5 +65,5 @@ Hi! I'm Moosa, a high school student and self-driven developer based in Ontario,
 
 ---
 <p align="center">
-  <img src="https://count.getloli.com/get/@kenjiifx?theme=rule34" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@kenjiifx?theme=sakurajima" alt="Visitor Count" />
 </p>
