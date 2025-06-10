@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Moosa Alam</h1>
 
 <p align="center">
-Aspiring Software Developer • Lifelong Learner • Builder at Heart
+Aspiring Software Developer • Lifelong Learner • Builder at Heart 
 </p>
 
 ---
