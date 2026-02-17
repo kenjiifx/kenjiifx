@@ -14,7 +14,6 @@ I love building, learning, and solving real-world problems through code.
 - 💻 Founder of **Oraxis**, a small web dev studio where I’ve built 10+ client websites using **HTML, CSS, and JavaScript**  
 - 🧠 Won **Recess Hacks 4.0** for creating a Flashcard App with a spaced repetition algorithm  
 - 🌩️ Currently diving deep into **cloud computing** and preparing for the **AWS Certified Cloud Practitioner** exam  
-- 🧰 Building a **Password Manager** in **C** to strengthen my systems and security skills  
 - 💬 Love helping others learn — I’ve tutored students in **Python** and **algorithms**
 
 ---
