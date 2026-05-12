@@ -1,70 +1,141 @@
-<h1 align="center">Hey there 👋, I'm Moosa Alam</h1>
+<h1 align="center">hey, i'm moosa 👋</h1>
 
 <p align="center">
-Computer Science Co-op Student • Aspiring Cloud Engineer • Builder at Heart  
+  computer science co-op student @ university of guelph <br/>
+  security • cloud • infrastructure • building cool things
+</p>
+
+<p align="center">
+  <a href="https://github.com/kenjiifx">
+    <img src="https://komarev.com/ghpvc/?username=kenjiifx&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 about me
 
-Hi! I'm **Moosa**, a Computer Science co-op student at the **University of Guelph** based in **Ontario, Canada 🇨🇦**.  
-I love building, learning, and solving real-world problems through code.
+i'm a cs student from ontario, canada 🇨🇦 who likes building systems that actually do things.
 
-- 💻 Founder of **Oraxis**, a small web dev studio where I’ve built 10+ client websites using **HTML, CSS, and JavaScript**  
-- 🧠 Won **Recess Hacks 4.0** for creating a Flashcard App with a spaced repetition algorithm  
-- 🌩️ Currently diving deep into **cloud computing** and preparing for the **AWS Certified Cloud Practitioner** exam  
-- 💬 Love helping others learn — I’ve tutored students in **Python** and **algorithms**
+right now i'm mainly focused on:
+- cloud + infrastructure engineering
+- cybersecurity + defensive tooling
+- ai agent safety systems
+- backend systems + low-level programming
 
----
-
-### 🧰 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+i spend most of my time building projects, learning in public, and experimenting with new ideas.
 
 ---
 
-### ⚙️ What I'm Working On
+## ⚡ current focus
 
-- 🧩 A **Password Manager CLI tool** built in **C**  
-- ☁️ Studying for the **AWS Certified Cloud Practitioner** certification  
-- 💡 Expanding **Oraxis** with more advanced, scalable web projects  
-- 🧭 Learning backend and cloud fundamentals to move toward **Cloud Engineering**
+- ☁️ studying for:
+  - AWS Certified Cloud Practitioner
+  - CompTIA Security+
+  - eventually CCNA + advanced cloud/security certs
+
+- 🛡️ building security + infra projects:
+  - real-time threat detection pipelines
+  - AI agent runtime safety systems
+  - IAM policy auditing tools
+  - distributed SSH monitoring systems
+
+- 🧠 learning:
+  - cloud architecture
+  - linux + networking
+  - system design
+  - devops fundamentals
+  - scalable backend engineering
 
 ---
 
-### 🌍 Connect with Me
+## 🛠️ featured projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moosa-alam)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moosahameed07@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/85kRxRgS)
+### 🔒 Agent-Seatbelt
+Runtime safety layer for AI agents with deterministic risk classification, policy enforcement, audit logging, and checkpoint tracking.
+
+> TypeScript • Node.js • Security Engineering
 
 ---
 
-### 📈 GitHub Stats
+### ☁️ Permission-Guard
+Local-first AWS IAM security CLI that scans policies for risky permissions and generates remediation suggestions + SARIF reports.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&theme=tokyonight&hide_border=false" alt="Moosa's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiifx&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+> AWS • IAM • TypeScript • CLI Tooling
+
+---
+
+### 📡 Threat Detection Pipeline
+Real-time threat detection + monitoring pipeline that analyzes logs, detects suspicious SSH activity, and visualizes metrics using Grafana dashboards.
+
+> PostgreSQL • Prometheus • Grafana • Security Monitoring
+
+---
+
+### 🌐 Oraxis
+My freelance web development brand where I design and build fast, modern websites for businesses and creators.
+
+> Next.js • React • Tailwind • Vercel
+
+---
+
+## 💻 tech stack
+
+### languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,bash" />
+</p>
+
+### frameworks + tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,linux,docker,postgres,vscode,vercel,aws" />
+</p>
+
+### currently learning
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform" />
 </p>
 
 ---
 
+## 📈 github stats
+
 <p align="center">
-  <img src="https://count.getloli.com/get/@kenjiifx?theme=booru-rfck" alt="Visitor Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiifx&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌍 connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/moosa-alam">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:moosahameed07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 🎯 goals for 2026
+
+- land a strong security/cloud engineering internship
+- contribute to impactful open-source projects
+- deepen my cloud + infrastructure knowledge
+- build products that people genuinely use
+- keep shipping consistently
+
+---
+
+<p align="center">
+  <i>"build fast. learn faster."</i>
+</p>
+```
