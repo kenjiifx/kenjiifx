@@ -47,13 +47,13 @@ moosa_alam:
   philosophy:  "Build like you'll have to operate it at 3 AM."
 
   currently:
-    learning:  ["AWS Cloud Practitioner", "CompTIA Security+", "Linux internals", "Networking deep-dive"]
+    learning:  ["AWS Cloud Practitioner", "CCNA", "Linux", "Networking"]
     building:  ["detection-style pipelines", "IAM posture checks",
                 "agent runtime guardrails", "SSH / access anomaly signals"]
 
   values:      ["secure by default", "easy to operate", "honest when it breaks"]
   signal:      ["logs", "metrics", "least privilege", "clear failure modes"]
-  open_to:     ["security / cloud internships (2026)", "open-source collab"]
+  open_to:     ["security & cloud internships/coops (Winter 2027)", "open-source collab"]
 ```
 
 <br/>
