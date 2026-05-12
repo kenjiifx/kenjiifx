@@ -1,141 +1,113 @@
-<h1 align="center">hey, i'm moosa 👋</h1>
+<h1 align="center">Hey, I'm Moosa</h1>
 
 <p align="center">
-  computer science co-op student @ university of guelph <br/>
-  security • cloud • infrastructure • building cool things
+  <strong>Computer Science (Co-op)</strong> · University of Guelph<br/>
+  Security · Cloud · Infrastructure · Systems That Ship
 </p>
 
 <p align="center">
   <a href="https://github.com/kenjiifx">
-    <img src="https://komarev.com/ghpvc/?username=kenjiifx&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kenjiifx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-## 🚀 about me
+## About Me
 
-i'm a cs student from ontario, canada 🇨🇦 who likes building systems that actually do things.
+I'm a CS student based in Ontario, Canada. I like **building systems that work in the real world**—secure, observable, and maintainable.
 
-right now i'm mainly focused on:
-- cloud + infrastructure engineering
-- cybersecurity + defensive tooling
-- ai agent safety systems
-- backend systems + low-level programming
+**Themes I gravitate toward:**
+- Cloud and infrastructure engineering  
+- Cybersecurity and defensive tooling  
+- AI agent runtime safety  
+- Backend systems and lower-level programming  
 
-i spend most of my time building projects, learning in public, and experimenting with new ideas.
-
----
-
-## ⚡ current focus
-
-- ☁️ studying for:
-  - AWS Certified Cloud Practitioner
-  - CompTIA Security+
-  - eventually CCNA + advanced cloud/security certs
-
-- 🛡️ building security + infra projects:
-  - real-time threat detection pipelines
-  - AI agent runtime safety systems
-  - IAM policy auditing tools
-  - distributed SSH monitoring systems
-
-- 🧠 learning:
-  - cloud architecture
-  - linux + networking
-  - system design
-  - devops fundamentals
-  - scalable backend engineering
+Most of my time goes to **shipping projects**, **writing and documenting what I learn**, and **trying ideas end-to-end** (not just tutorials).
 
 ---
 
-## 🛠️ featured projects
+## What I'm Doing Now
 
-### 🔒 Agent-Seatbelt
-Runtime safety layer for AI agents with deterministic risk classification, policy enforcement, audit logging, and checkpoint tracking.
+**Certifications (in progress / planned)**  
+- AWS Certified Cloud Practitioner  
+- CompTIA Security+  
+- Later: CCNA and deeper cloud/security certs  
 
-> TypeScript • Node.js • Security Engineering
+**Hands-on work**  
+- Threat detection and monitoring pipelines  
+- AI agent safety and policy-style guardrails  
+- IAM posture checks and safer defaults  
+- SSH and access patterns worth catching early  
 
----
-
-### ☁️ Permission-Guard
-Local-first AWS IAM security CLI that scans policies for risky permissions and generates remediation suggestions + SARIF reports.
-
-> AWS • IAM • TypeScript • CLI Tooling
-
----
-
-### 📡 Threat Detection Pipeline
-Real-time threat detection + monitoring pipeline that analyzes logs, detects suspicious SSH activity, and visualizes metrics using Grafana dashboards.
-
-> PostgreSQL • Prometheus • Grafana • Security Monitoring
+**Skills I'm sharpening**  
+- Cloud architecture and practical AWS  
+- Linux, networking, and troubleshooting  
+- System design and scalable backends  
+- DevOps fundamentals (CI/CD, config, reliability)
 
 ---
 
-### 🌐 Oraxis
-My freelance web development brand where I design and build fast, modern websites for businesses and creators.
+## Tech I Use Often
 
-> Next.js • React • Tailwind • Vercel
-
----
-
-## 💻 tech stack
-
-### languages
+**Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,bash" alt="Languages" />
 </p>
 
-### frameworks + tools
+**Frameworks & tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,linux,docker,postgres,vscode,vercel,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,linux,docker,postgres,vscode,vercel,aws" alt="Frameworks and tools" />
 </p>
 
-### currently learning
+**Learning next**  
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform" alt="Currently learning" />
 </p>
 
 ---
 
-## 📈 github stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiifx&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiifx&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🌍 connect with me
+## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/moosa-alam">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p>
+  <a href="https://www.linkedin.com/in/moosa-alam" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:moosahameed07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:moosahameed07@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kenjiifx" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🎯 goals for 2026
+## Goals For 2026
 
-- land a strong security/cloud engineering internship
-- contribute to impactful open-source projects
-- deepen my cloud + infrastructure knowledge
-- build products that people genuinely use
-- keep shipping consistently
+- Secure a strong **security or cloud engineering** internship  
+- Contribute to **open source** with clear, repeatable impact  
+- Go deeper on **cloud, networking, and platform fundamentals**  
+- Ship products people **actually rely on**  
+- Keep a steady **build → review → improve** cadence  
 
 ---
 
 <p align="center">
-  <i>"build fast. learn faster."</i>
+  <i>Build with intent. Learn in public. Ship what matters.</i>
 </p>
-```
