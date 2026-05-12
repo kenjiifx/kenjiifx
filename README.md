@@ -1,113 +1,87 @@
-<h1 align="center">Hey, I'm Moosa</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Computer Science (Co-op)</strong> · University of Guelph<br/>
-  Security · Cloud · Infrastructure · Systems That Ship
-</p>
+### Moosa Alam
 
-<p align="center">
-  <a href="https://github.com/kenjiifx">
-    <img src="https://komarev.com/ghpvc/?username=kenjiifx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+**Computer Science (Co‑op) · University of Guelph**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Security+%E2%80%A2+Cloud+%E2%80%A2+Infrastructure;Building+systems+that+are+secure%2C+observable%2C+and+shippable" alt="Animated headline" />
 
-## About Me
+<br/>
 
-I'm a CS student based in Ontario, Canada. I like **building systems that work in the real world**—secure, observable, and maintainable.
+<a href="https://www.linkedin.com/in/moosa-alam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:moosahameed07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/kenjiifx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-**Themes I gravitate toward:**
-- Cloud and infrastructure engineering  
-- Cybersecurity and defensive tooling  
-- AI agent runtime safety  
-- Backend systems and lower-level programming  
+<br/><br/>
 
-Most of my time goes to **shipping projects**, **writing and documenting what I learn**, and **trying ideas end-to-end** (not just tutorials).
+<img src="https://komarev.com/ghpvc/?username=kenjiifx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 
----
+</div>
 
-## What I'm Doing Now
+<br/>
 
-**Certifications (in progress / planned)**  
-- AWS Certified Cloud Practitioner  
-- CompTIA Security+  
-- Later: CCNA and deeper cloud/security certs  
+<table>
+<tr>
+<td width="52%" valign="top">
 
-**Hands-on work**  
-- Threat detection and monitoring pipelines  
-- AI agent safety and policy-style guardrails  
-- IAM posture checks and safer defaults  
-- SSH and access patterns worth catching early  
+#### About
 
-**Skills I'm sharpening**  
-- Cloud architecture and practical AWS  
-- Linux, networking, and troubleshooting  
-- System design and scalable backends  
-- DevOps fundamentals (CI/CD, config, reliability)
+Ontario-based CS student. I like **end-to-end ownership**: threat modeling-ish thinking, practical AWS, Linux/network fundamentals, and backends that don’t fall over quietly.
 
----
+I’m happiest when a project has **clear constraints**, **measurable outcomes**, and **good operational hygiene** (logs, metrics, least privilege).
 
-## Tech I Use Often
+</td>
+<td width="48%" valign="top">
 
-**Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,bash" alt="Languages" />
-</p>
+#### Focus
 
-**Frameworks & tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,linux,docker,postgres,vscode,vercel,aws" alt="Frameworks and tools" />
-</p>
+**Certs (now → next):** AWS Cloud Practitioner · Security+ · later CCNA + deeper cloud/security
 
-**Learning next**  
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform" alt="Currently learning" />
-</p>
+**Build themes:** detection/monitoring pipelines · agent runtime safety/guardrails · IAM posture checks · SSH/access anomaly signals
 
----
+**Sharpening:** system design · reliability basics · platform fundamentals
 
-## GitHub Activity
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiifx&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center">
 
----
+#### Stack
 
-## Connect
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css,bash" alt="Languages"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,linux,docker,postgres,vscode,vercel,aws" alt="Tools"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform" alt="Learning"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/moosa-alam" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:moosahameed07@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kenjiifx" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-## Goals For 2026
+<div align="center">
 
-- Secure a strong **security or cloud engineering** internship  
-- Contribute to **open source** with clear, repeatable impact  
-- Go deeper on **cloud, networking, and platform fundamentals**  
-- Ship products people **actually rely on**  
-- Keep a steady **build → review → improve** cadence  
+#### GitHub
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kenjiifx&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<p align="center">
-  <i>Build with intent. Learn in public. Ship what matters.</i>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+#### 2026
+
+Internship (security/cloud) · meaningful open source · deeper cloud + networking · ship consistently
+
+<br/>
+
+<sub><i>Build with taste. Operate with receipts.</i></sub>
+
+</div>
