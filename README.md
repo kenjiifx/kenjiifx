@@ -69,19 +69,19 @@ moosa_alam:
     <td valign="top" width="33%">
       <h3 align="center">Languages</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,bash,html,css&perline=4" />
+        <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css&perline=4" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Frameworks / Runtimes</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite,express,fastapi,flask&perline=4" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,flask&perline=4" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Cloud / Infra</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,nginx,bash,git&perline=4" />
+        <img src="https://skillicons.dev/icons?i=aws,linux,docker,git&perline=4" />
       </p>
     </td>
   </tr>
@@ -89,13 +89,13 @@ moosa_alam:
     <td valign="top">
       <h3 align="center">Data / Storage</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma&perline=5" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=5" />
       </p>
     </td>
     <td valign="top">
       <h3 align="center">Tooling</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,vim,github,githubactions,postman,figma&perline=6" />
+        <img src="https://skillicons.dev/icons?i=vscode,vim,github,githubactions,figma&perline=6" />
       </p>
     </td>
     <td valign="top">
