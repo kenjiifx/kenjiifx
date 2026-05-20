@@ -189,23 +189,6 @@ moosa_alam:
 
 <br/>
 
-<!-- =========================================================
-                           Quote
-   ========================================================= -->
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark" alt="Dev quote" />
-</p>
-
-<br/>
-
-<!-- =========================================================
-                          Footer
-   ========================================================= -->
-
-<p align="center">
-  <i>Build like you'll have to operate it. Then operate it like you'll have to debug it at 3 AM.</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer&reversal=true" />
