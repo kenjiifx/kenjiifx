@@ -193,7 +193,3 @@ moosa_alam:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer&reversal=true" />
 </p>
-
-<p align="right">
-  <a href="#readme-top"><img src="https://img.shields.io/badge/back%20to%20top-%E2%86%91-58A6FF?style=flat-square&labelColor=0d1117" /></a>
-</p>
