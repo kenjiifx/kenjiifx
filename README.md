@@ -89,7 +89,7 @@ moosa_alam:
     <td valign="top">
       <h3 align="center">Data / Storage</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=5" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=5" />
       </p>
     </td>
     <td valign="top">
