@@ -101,11 +101,8 @@ moosa_alam:
     <td valign="top">
       <h3 align="center">Security / Ops</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
         <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
         <img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
       </p>
     </td>
   </tr>
