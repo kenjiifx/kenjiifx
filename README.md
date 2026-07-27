@@ -303,7 +303,6 @@ A concurrent HTTP server implemented in C with socket programming and pthread-ba
 
 <div align="center">
 
-```text
 SYSTEM STATUS
 
 ● Active Projects
