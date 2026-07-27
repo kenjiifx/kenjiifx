@@ -267,57 +267,64 @@ A concurrent HTTP server implemented in C with socket programming and pthread-ba
 
 <br />
 
-## `07 // REPOSITORY.SIGNALS`
-
-<p align="center">
-
-<a href="https://github.com/kenjiifx/SENSEFORGE">
-<img src="https://img.shields.io/github/last-commit/kenjiifx/SENSEFORGE?style=for-the-badge&logo=github&label=SENSEFORGE&labelColor=050816&color=0EA5E9"/>
-</a>
-
-<a href="https://github.com/kenjiifx/Permission-Guard">
-<img src="https://img.shields.io/github/last-commit/kenjiifx/Permission-Guard?style=for-the-badge&logo=github&label=PERMISSION--GUARD&labelColor=050816&color=8B5CF6"/>
-</a>
-
-<a href="https://github.com/kenjiifx/Agent-Seatbelt">
-<img src="https://img.shields.io/github/last-commit/kenjiifx/Agent-Seatbelt?style=for-the-badge&logo=github&label=AGENT--SEATBELT&labelColor=050816&color=22C55E"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/kenjiifx/SENSEFORGE">
-<img src="https://img.shields.io/github/languages/top/kenjiifx/SENSEFORGE?style=flat-square&label=SENSEFORGE&labelColor=050816&color=0EA5E9"/>
-</a>
-
-<a href="https://github.com/kenjiifx/VITAL">
-<img src="https://img.shields.io/github/languages/top/kenjiifx/VITAL?style=flat-square&label=VITAL&labelColor=050816&color=8B5CF6"/>
-</a>
-
-<a href="https://github.com/kenjiifx/Threat-Detection-Pipeline">
-<img src="https://img.shields.io/github/languages/top/kenjiifx/Threat-Detection-Pipeline?style=flat-square&label=THREAT--PIPELINE&labelColor=050816&color=22C55E"/>
-</a>
-
-</p>
+## `07 // SYSTEM.DASHBOARD`
 
 <div align="center">
 
-SYSTEM STATUS
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenjiifx&theme=github_dark" width="100%" />
 
-● Active Projects
-├── SENSEFORGE
-├── Permission-Guard
-├── Agent-Seatbelt
-├── Threat Detection Pipeline
-└── VITAL
+<br><br>
 
-Primary Interests
-├── Systems Programming
-├── Security Engineering
-├── Infrastructure
-├── AI Runtime Safety
-└── Performance Engineering
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ Current Focus
+
+```text
+OS & Systems Programming
+███████████████░░ 85%
+
+Security Engineering
+████████████████░ 90%
+
+Cloud Infrastructure
+█████████████░░░░ 75%
+
+Artificial Intelligence
+██████████████░░░ 82%
+
+Performance Engineering
+████████████░░░░░ 70%
+```
+
+</td>
+
+<td width="50%">
+
+### ⚡ Engineering Principles
+
+```yaml
+secure_by_default: true
+production_first: true
+observability: required
+performance_matters: true
+learn_low_level: true
+ship_fast: true
+break_then_fix: true
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenjiifx&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenjiifx&theme=github_dark"/>
+
+</div>
 
 ## `08 // CONTRIBUTION.SNAKE`
 
