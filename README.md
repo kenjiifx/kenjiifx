@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://moosaalam.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=050816" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/moosa-alam"><img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=050816" alt="LinkedIn" /></a>
-  <a href="mailto:moosahameed07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=050816" alt="Email" /></a>
+  <a href="mailto:alammoosa07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=050816" alt="Email" /></a>
   <a href="https://github.com/kenjiifx?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-050816?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=050816" alt="Repositories" /></a>
 </p>
 
@@ -267,22 +267,58 @@ A concurrent HTTP server implemented in C with socket programming and pthread-ba
 
 <br />
 
-## `07 // GITHUB.TELEMETRY`
+## `07 // REPOSITORY.SIGNALS`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=050816&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&ring_color=38BDF8" alt="Moosa's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=38BDF8&text_color=CBD5E1" alt="Moosa's most used languages" />
+
+<a href="https://github.com/kenjiifx/SENSEFORGE">
+<img src="https://img.shields.io/github/last-commit/kenjiifx/SENSEFORGE?style=for-the-badge&logo=github&label=SENSEFORGE&labelColor=050816&color=0EA5E9"/>
+</a>
+
+<a href="https://github.com/kenjiifx/Permission-Guard">
+<img src="https://img.shields.io/github/last-commit/kenjiifx/Permission-Guard?style=for-the-badge&logo=github&label=PERMISSION--GUARD&labelColor=050816&color=8B5CF6"/>
+</a>
+
+<a href="https://github.com/kenjiifx/Agent-Seatbelt">
+<img src="https://img.shields.io/github/last-commit/kenjiifx/Agent-Seatbelt?style=for-the-badge&logo=github&label=AGENT--SEATBELT&labelColor=050816&color=22C55E"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kenjiifx&hide_border=true&background=050816&ring=38BDF8&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=A78BFA&dates=64748B" alt="GitHub contribution streak" />
+
+<a href="https://github.com/kenjiifx/SENSEFORGE">
+<img src="https://img.shields.io/github/languages/top/kenjiifx/SENSEFORGE?style=flat-square&label=SENSEFORGE&labelColor=050816&color=0EA5E9"/>
+</a>
+
+<a href="https://github.com/kenjiifx/VITAL">
+<img src="https://img.shields.io/github/languages/top/kenjiifx/VITAL?style=flat-square&label=VITAL&labelColor=050816&color=8B5CF6"/>
+</a>
+
+<a href="https://github.com/kenjiifx/Threat-Detection-Pipeline">
+<img src="https://img.shields.io/github/languages/top/kenjiifx/Threat-Detection-Pipeline?style=flat-square&label=THREAT--PIPELINE&labelColor=050816&color=22C55E"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kenjiifx&bg_color=050816&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=0EA5E9&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="GitHub contribution graph" />
-</p>
+<div align="center">
 
-<br />
+```text
+SYSTEM STATUS
+
+● Active Projects
+├── SENSEFORGE
+├── Permission-Guard
+├── Agent-Seatbelt
+├── Threat Detection Pipeline
+└── VITAL
+
+Primary Interests
+├── Systems Programming
+├── Security Engineering
+├── Infrastructure
+├── AI Runtime Safety
+└── Performance Engineering
 
 ## `08 // CONTRIBUTION.SNAKE`
 
@@ -302,7 +338,7 @@ A concurrent HTTP server implemented in C with socket programming and pthread-ba
 
 **I am looking for teams building serious software around infrastructure, security, developer systems, applied AI, or technically ambitious products.**
 
-<a href="mailto:moosahameed07@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-38BDF8?style=for-the-badge&logo=gmail&logoColor=050816" alt="Email Moosa" /></a> <a href="https://www.linkedin.com/in/moosa-alam"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=050816" alt="Connect on LinkedIn" /></a>
+<a href="mailto:alammoosa07@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-38BDF8?style=for-the-badge&logo=gmail&logoColor=050816" alt="Email Moosa" /></a> <a href="https://www.linkedin.com/in/moosa-alam"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=050816" alt="Connect on LinkedIn" /></a>
 
 <br /><br />
 
