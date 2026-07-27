@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="ht hd">
+  <title id="ht">Moosa Alam</title>
+  <desc id="hd">Systems, security, and infrastructure engineer. University of Guelph CS Co-op. Winter 2027.</desc>
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="45%" stop-color="#0A101C"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#22D3EE" stop-opacity="0.7"/>
+      <stop offset="70%" stop-color="#818CF8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#94A3B8"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="78%" cy="28%" r="42%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.16"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#05070D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#64748B" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1280" height="360" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="360" fill="url(#hbg)"/>
+    <rect width="1280" height="360" fill="url(#spot)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <rect x="0" y="0" width="1280" height="1" fill="#1E293B"/>
+    <rect x="0" y="359" width="1280" height="1" fill="#1E293B"/>
+    <rect x="0" y="0" width="4" height="360" fill="#22D3EE"/>
+
+    <g stroke="#334155" stroke-width="1" fill="none" opacity="0.55">
+      <path d="M980 40 L1240 40 L1240 150"/>
+      <path d="M980 320 L1240 320 L1240 210"/>
+      <path d="M40 40 L160 40"/>
+      <path d="M40 320 L160 320"/>
+    </g>
+
+    <text x="56" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748B" letter-spacing="3.5">KENJIIFX  /  PROFILE</text>
+    <text x="56" y="165" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="72" font-weight="700" fill="url(#nt)">Moosa Alam</text>
+    <rect x="56" y="188" width="180" height="2" fill="url(#beam)">
+      <animate attributeName="width" values="120;220;120" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="56" y="232" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="20" fill="#CBD5E1">Systems engineering  ·  Security tooling  ·  Infrastructure  ·  Applied AI</text>
+    <text x="56" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#64748B">University of Guelph  ·  Computer Science Co-op  ·  Ontario, Canada</text>
+
+    <g transform="translate(920, 86)">
+      <rect width="300" height="188" rx="8" fill="#070B14" fill-opacity="0.85" stroke="#1E293B"/>
+      <text x="20" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#64748B" letter-spacing="2">SIGNAL</text>
+      <text x="20" y="68" font-family="ui-sans-serif, system-ui, Segoe UI, sans-serif" font-size="15" fill="#F8FAFC">Winter 2027 Co-op</text>
+      <text x="20" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#22D3EE">software · security · infra</text>
+      <text x="20" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94A3B8">platform · cloud · systems</text>
+      <line x1="20" y1="148" x2="280" y2="148" stroke="#1E293B"/>
+      <circle cx="28" cy="170" r="4" fill="#22C55E">
+        <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="42" y="174" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#86EFAC">open to opportunities</text>
+    </g>
+  </g>
+</svg>
