@@ -1,106 +1,66 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Moosa Alam" width="100%" />
+  <img src="./assets/banner.svg" alt="Moosa Alam — Systems / Security / Infrastructure" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://moosaalam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/moosa-alam"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-  <a href="mailto:alammoosa07@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=94A3B8" alt="Email" /></a>
-  <a href="https://github.com/kenjiifx?tab=repositories"><img src="https://img.shields.io/badge/Repos-0B1220?style=for-the-badge&logo=github&logoColor=94A3B8" alt="Repos" /></a>
+  <a href="https://moosaalam.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/moosa-alam">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:alammoosa07@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kenjiifx?tab=repositories">Repositories</a>
 </p>
-
-<p align="center">
-  <img src="./assets/rule.svg" width="100%" alt="" />
-</p>
-
-CS Co-op @ University of Guelph. I build low-level systems, defensive security tools, infrastructure software, and AI products that actually ship. Seeking **Winter 2027** co-op roles in software, security, infrastructure, systems, cloud, or platform.
-
-## SENSEFORGE
-
-**[Native perceptual runtime](https://github.com/kenjiifx/SENSEFORGE)** — Rust · wgpu · WGSL · Win32
-
-Click-through transparent Windows overlay. GPU-rendered visual fields. Custom perceptual compiler and runtime. Real systems work: shader pipelines, uniform alignment, Win32 behaviour.
-
-```
-SenseGenome → PerceptualCompiler → PerceptualRuntime → wgpu / WGSL overlay
-```
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[VITAL](https://github.com/kenjiifx/VITAL)**  
-AI health interface. Hackathon — **4th overall**.  
-`Next.js` `TypeScript` `Firebase` `Gemini`
-
-</td>
-<td width="50%" valign="top">
-
-**[Permission-Guard](https://github.com/kenjiifx/Permission-Guard)**  
-AWS IAM policy analysis CLI. Flags over-privilege.  
-`Python` `AWS IAM` `static analysis`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Agent-Seatbelt](https://github.com/kenjiifx/Agent-Seatbelt)**  
-Policy layer for AI-agent actions before they hit the host.  
-`Python` `execution control` `guardrails`
-
-</td>
-<td width="50%" valign="top">
-
-**[Threat Detection Pipeline](https://github.com/kenjiifx/Threat-Detection-Pipeline)**  
-Ingest → detect → store → observe.  
-`Python` `PostgreSQL` `Prometheus` `Grafana` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Multithreaded HTTP Server](https://github.com/kenjiifx/Multithreaded-HTTP-Server)**  
-Concurrent HTTP in C. Sockets + pthreads.  
-`C` `POSIX` `concurrency`
-
-</td>
-<td width="50%" valign="top">
-
-**[Distributed SSH Threat Monitor](https://github.com/kenjiifx/Distributed-SSH-Threat-Monitor)**  
-Suspicious SSH access and anomaly signals.  
-`Python` `SSH` `telemetry`
-
-</td>
-</tr>
-</table>
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,python,java,ts,js,linux,aws,docker,postgres,mongodb,firebase,nextjs,react,nodejs,fastapi,flask,tailwind,git,githubactions&theme=dark&perline=10" alt="Technical stack" />
-</p>
-
-| | |
-|---|---|
-| **Languages** | Rust, Python, C, Java, TypeScript, JavaScript |
-| **Systems** | Linux, Win32, Docker, AWS, GitHub Actions |
-| **Backend** | Node.js, FastAPI, Flask, PostgreSQL, MongoDB, Firebase |
-| **Frontend** | Next.js, React, Tailwind CSS |
-| **Security** | IAM, Prometheus, Grafana, telemetry, policy enforcement |
-
-## Now
-
-- Pushing SENSEFORGE past prototype
-- Linux, networking, cloud fundamentals
-- Secure AI systems with hard execution boundaries
-- Winter 2027 co-op
 
 ---
 
-Want someone who builds past the demo? Reach out.
+I build software at the intersection of systems programming, security engineering, and infrastructure. Currently looking for a **Winter 2027** co-op.
 
-**[alammoosa07@gmail.com](mailto:alammoosa07@gmail.com)** · **[LinkedIn](https://linkedin.com/in/moosa-alam)** · **[Portfolio](https://moosaalam.vercel.app)**
+<br>
+
+### Featured project
+
+#### [SENSEFORGE](https://github.com/kenjiifx/SENSEFORGE)
+Native Windows perceptual-computing runtime.
+
+Built in **Rust** with **wgpu**, **WGSL**, and **Win32**. Compiles abstract sensory state into real-time GPU overlays — click-through, transparent, running against the actual windowing system.
+
+`Rust` `wgpu` `WGSL` `Win32` `GPU` `real-time`
+
+<br>
+
+### Other work
+
+| | |
+|:--|:--|
+| **[VITAL](https://github.com/kenjiifx/VITAL)** | AI-assisted health product. Hackathon finish: **4th overall**. Next.js, TypeScript, Firebase, Gemini. |
+| **[Permission-Guard](https://github.com/kenjiifx/Permission-Guard)** | Python CLI that analyzes AWS IAM policies and surfaces excessive permissions. |
+| **[Agent-Seatbelt](https://github.com/kenjiifx/Agent-Seatbelt)** | Runtime policy layer for AI agents — blocks dangerous actions before they hit the host. |
+| **[Threat Detection Pipeline](https://github.com/kenjiifx/Threat-Detection-Pipeline)** | Detection + storage + metrics. Python, PostgreSQL, Prometheus, Grafana, Docker. |
+| **[Multithreaded HTTP Server](https://github.com/kenjiifx/Multithreaded-HTTP-Server)** | Concurrent HTTP server in C with sockets and pthreads. |
+
+<br>
+
+### Stack
+
+**Lang** — Rust, Python, C, Java, TypeScript, JavaScript  
+**Systems** — Linux, Win32, Docker, AWS, GitHub Actions  
+**Backend** — Node.js, FastAPI, Flask, PostgreSQL, MongoDB, Firebase  
+**Frontend** — Next.js, React, Tailwind  
+**Security** — IAM, policy enforcement, Prometheus, Grafana, telemetry
+
+<br>
+
+### Focus
+
+Winter 2027 co-op · SENSEFORGE · Linux / networking / cloud · secure AI with explicit execution boundaries
+
+---
+
+<p align="center">
+  <a href="mailto:alammoosa07@gmail.com"><strong>alammoosa07@gmail.com</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/moosa-alam">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://moosaalam.vercel.app">Portfolio</a>
+</p>
