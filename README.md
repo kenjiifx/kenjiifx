@@ -1,197 +1,317 @@
-<!-- =========================================================
-                Moosa Alam · GitHub Profile README
-                     v2 — "insane" redesign
-   ========================================================= -->
-<a name="readme-top"></a>
+<a id="readme-top"></a>
 
-<!-- Glitch/synthwave animated banner -->
+<!-- ═══════════════════════════════════════════════════════════════
+     MOOSA ALAM — GITHUB PROFILE
+     Systems • Security • AI Infrastructure
+════════════════════════════════════════════════════════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:ff00c8,50:00f0ff,75:8957e5,100:0a0014&height=260&section=header&text=MOOSA%20ALAM&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%3E%20breaking%20things%20on%20purpose%20so%20they%20don't%20break%20at%203AM&descAlignY=58&descSize=18&descColor=00f0ff" alt="Moosa Alam banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050816,35:071B33,68:00D9FF,100:8B5CF6&text=MOOSA%20ALAM&fontColor=F8FAFC&fontSize=76&fontAlignY=42&desc=SYSTEMS%20%2F%20SECURITY%20%2F%20AI%20INFRASTRUCTURE&descAlignY=64&descSize=18&animation=fadeIn&stroke=00E5FF&strokeWidth=1" alt="Moosa Alam — Systems, Security, AI Infrastructure" />
 </p>
 
-<!-- Typing headline -->
 <p align="center">
   <a href="https://github.com/kenjiifx">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=800&color=00F0FF&center=true&vCenter=true&width=950&lines=root%40kenjiifx%3A~%23+whoami;Computer+Science+(Co-op)+%40+University+of+Guelph;Security+%C2%B7+Cloud+%C2%B7+Infrastructure+%C2%B7+Automation;Defensive+tooling+%E2%80%A2+IAM+posture+%E2%80%A2+Detection+pipelines;Pursuing%3A+AWS+Cloud+Practitioner+%E2%80%A2+CompTIA+Security%2B;Status%3A+ONLINE+%E2%9A%A1+open+to+Winter+2027+co-ops" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=750&color=38BDF8&center=true&vCenter=true&repeat=true&width=1000&height=45&lines=%24+building+software+that+interacts+with+the+real+system;Security+tooling+%E2%80%A2+perceptual+runtimes+%E2%80%A2+AI+guardrails;From+Win32+overlays+and+WGSL+to+IAM+analysis+and+threat+telemetry;Computer+Science+Co-op+%40+University+of+Guelph;Seeking+Winter+2027+software+%2F+security+%2F+infrastructure+co-op" alt="Typing introduction" />
   </a>
 </p>
 
-<!-- Social + meta badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/moosa-alam"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=0a0014" /></a>
-  <a href="mailto:moosahameed07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ff00c8?style=for-the-badge&logo=gmail&logoColor=0a0014" /></a>
-  <a href="https://github.com/kenjiifx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-8957e5?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://moosaalam.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0a0014?style=for-the-badge&logo=vercel&logoColor=00f0ff" /></a>
+  <a href="https://moosaalam.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=050816" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/moosa-alam"><img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=050816" alt="LinkedIn" /></a>
+  <a href="mailto:moosahameed07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=050816" alt="Email" /></a>
+  <a href="https://github.com/kenjiifx?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-050816?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=050816" alt="Repositories" /></a>
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kenjiifx&style=for-the-badge&color=ff00c8&label=PROFILE+VIEWS&labelColor=0a0014" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/kenjiifx?style=for-the-badge&color=00f0ff&labelColor=0a0014&logo=github&label=FOLLOWERS" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/kenjiifx?style=for-the-badge&color=8957e5&labelColor=0a0014&logo=star&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=kenjiifx&style=flat-square&color=0ea5e9&label=PROFILE+SIGNALS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kenjiifx?style=flat-square&logo=github&color=8b5cf6&labelColor=050816&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/kenjiifx?affiliations=OWNER&style=flat-square&logo=github&color=0ea5e9&labelColor=050816&label=TOTAL+STARS" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/CO--OP-WINTER%202027-22c55e?style=flat-square&labelColor=050816" alt="Seeking Winter 2027 co-op" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-actively%20breaking%20prod%20(safely)-00f0ff?style=flat-square&labelColor=0a0014" />
-  <img src="https://img.shields.io/badge/uptime-3AM%20tested-ff00c8?style=flat-square&labelColor=0a0014" />
-  <img src="https://img.shields.io/badge/coffee-required-8957e5?style=flat-square&labelColor=0a0014" />
-</p>
+<br />
 
-<br/>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<!-- =========================================================
-                            About
-   ========================================================= -->
-## <samp>&gt; ~/about_me.yaml</samp>
+## `01 // SYSTEM.IDENTITY`
 
 ```yaml
-moosa_alam:
-  role:        "Computer Science (Co-op) Student"
-  school:      "University of Guelph"
-  location:    "Canada"
-  focus:       [security, cloud, infrastructure, automation]
-  philosophy:  "Build like you'll have to operate it at 3 AM."
-  currently:
-    learning:  ["AWS Cloud Practitioner", "CCNA", "Linux", "Networking"]
-    building:  ["detection-style pipelines", "IAM posture checks",
-                "agent runtime guardrails", "SSH / access anomaly signals"]
-  values:      ["secure by default", "easy to operate", "honest when it breaks"]
-  signal:      ["logs", "metrics", "least privilege", "clear failure modes"]
-  open_to:     ["security & cloud internships/co-ops (Winter 2027)", "open-source collab"]
+name: Moosa Alam
+handle: kenjiifx
+location: Ontario, Canada
+education: Computer Science (Co-op), University of Guelph
+
+engineering_vector:
+  - security engineering
+  - infrastructure and platform systems
+  - low-level and real-time software
+  - applied AI with hard system boundaries
+
+operating_principles:
+  - secure by default
+  - observable under failure
+  - useful beyond the demo
+  - understand the layer below
+
+current_mission:
+  build ambitious systems, publish the work,
+  and earn a Winter 2027 engineering co-op.
 ```
 
-<br/>
+</td>
+<td width="42%" valign="top">
 
-<!-- =========================================================
-                          Tech Stack
-   ========================================================= -->
-## <samp>&gt; ~/stack.sh --verbose</samp>
+## `02 // LIVE.STATUS`
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">🧬 Languages</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css&perline=4&theme=dark" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">⚡ Frameworks / Runtimes</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,flask&perline=4&theme=dark" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">☁️ Cloud / Infra</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,linux,docker,git&perline=4&theme=dark" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="center">🗄️ Data / Storage</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=5&theme=dark" />
-      </p>
-    </td>
-    <td valign="top">
-      <h3 align="center">🛠️ Tooling</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,vim,github,githubactions,figma&perline=6&theme=dark" />
-      </p>
-    </td>
-    <td valign="top">
-      <h3 align="center">🛡️ Security / Ops</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Burp%20Suite-0a0014?style=flat-square&logo=burpsuite&logoColor=ff6633" />
-        <br/>
-        <img src="https://img.shields.io/badge/IAM-0a0014?style=flat-square&logo=amazonaws&logoColor=ff9900" />
-      </p>
-    </td>
-  </tr>
-</table>
+```text
+[●] Building        SENSEFORGE
+[●] Exploring       AI-native system safety
+[●] Deepening       Linux + networking + cloud
+[●] Shipping        defensive open-source tools
+[○] Targeting       Winter 2027 co-op
+```
 
-<br/>
-
-<!-- =========================================================
-                Currently Working On / 2026 Goals
-   ========================================================= -->
-## <samp>&gt; ~/focus.md --live</samp>
-
-<table>
-  <tr>
-    <th align="left" width="50%">🔧 currently_working_on[]</th>
-    <th align="left" width="50%">🎯 2026_goals[]</th>
-  </tr>
-  <tr>
-    <td valign="top">
-
-- detection-style pipelines for noisy auth logs
-- AWS IAM posture scanner (least-privilege diffs)
-- agent runtime sandboxing & guardrails
-- SSH / access anomaly signaling
-- writing things up so other people can reuse them
+> I am most interested in engineering where software meets real constraints: operating systems, infrastructure, security boundaries, telemetry, latency, and failure.
 
 </td>
-    <td valign="top">
-
-- land a strong security / cloud internship
-- ship **AWS CP** + **CompTIA Security+**
-- contribute upstream to a defensive-tooling repo
-- run a homelab with real telemetry & alerts
-- finish one open-source project end-to-end
-
-</td>
-  </tr>
+</tr>
 </table>
 
-<br/>
+<br />
 
-<!-- =========================================================
-                          GitHub Stats
-   ========================================================= -->
-## <samp>&gt; ~/github_stats.sh --neon</samp>
+## `03 // SELECTED.SYSTEMS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [SENSEFORGE](https://github.com/kenjiifx/SENSEFORGE) `// perceptual runtime`
+
+A native Windows perceptual-computing runtime built in **Rust**, **wgpu**, **WGSL**, and **Win32**. It compiles abstract sensory states into real-time, click-through visual overlays.
+
+`Rust` `wgpu` `WGSL` `Win32` `real-time rendering`
+
+**Why it matters:** low-level window behavior, GPU pipelines, uniform alignment, runtime validation, and an original systems abstraction—not another CRUD app.
+
+</td>
+<td width="50%" valign="top">
+
+### [VITAL](https://github.com/kenjiifx/VITAL) `// intelligent health interface`
+
+An AI-assisted medical experience designed around rapid context synthesis, multimodal interaction, and actionable patient support. Built during a hackathon and placed **4th overall**.
+
+`Next.js` `TypeScript` `Firebase` `Gemini` `AI systems`
+
+**Why it matters:** product execution under time pressure, end-to-end ownership, human-centred AI, and shipping with a team.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Permission-Guard](https://github.com/kenjiifx/Permission-Guard) `// IAM policy intelligence`
+
+A defensive CLI for analyzing IAM policies, surfacing excessive permissions, and making least-privilege problems easier to understand and fix.
+
+`Python` `AWS IAM` `CLI` `static analysis` `security`
+
+**Why it matters:** converts dense authorization policy into concrete security signal and remediation context.
+
+</td>
+<td width="50%" valign="top">
+
+### [Agent-Seatbelt](https://github.com/kenjiifx/Agent-Seatbelt) `// runtime guardrails`
+
+A safety layer for controlling AI-agent actions before commands reach the host system. Focused on explicit policy, dangerous-operation detection, and auditable execution boundaries.
+
+`Python` `AI agents` `policy engine` `sandboxing` `security`
+
+**Why it matters:** treats agent safety as a systems problem—not a prompt-engineering problem.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Threat Detection Pipeline](https://github.com/kenjiifx/Threat-Detection-Pipeline) `// observable detection`
+
+A security telemetry pipeline for ingesting events, detecting suspicious activity, storing findings, and exposing operational metrics.
+
+`Python` `PostgreSQL` `Prometheus` `Grafana` `Docker`
+
+**Why it matters:** joins detection logic with the observability required to operate it.
+
+</td>
+<td width="50%" valign="top">
+
+### [Multithreaded HTTP Server](https://github.com/kenjiifx/Multithreaded-HTTP-Server) `// systems foundations`
+
+A concurrent HTTP server implemented in C with socket programming and pthread-based request handling.
+
+`C` `POSIX sockets` `pthreads` `HTTP` `concurrency`
+
+**Why it matters:** direct experience with networking, memory, synchronization, and the primitives hidden beneath frameworks.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img height="185" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0a0014&title_color=00f0ff&icon_color=ff00c8&text_color=e6e6e6" />
-  <img height="185" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&theme=synthwave&hide_border=true&langs_count=8&bg_color=0a0014&title_color=00f0ff&text_color=e6e6e6" />
+  <a href="https://github.com/kenjiifx?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_SYSTEMS-%E2%86%92-050816?style=for-the-badge&labelColor=050816&color=0ea5e9" alt="Explore all repositories" />
+  </a>
+</p>
+
+<br />
+
+## `04 // CAPABILITY.MATRIX`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=rust,python,c,java,ts,js,html,css&theme=dark&perline=8" alt="Rust, Python, C, Java, TypeScript, JavaScript, HTML, CSS" />
+
+### Systems, Cloud & Data
+
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,postgres,mongodb,firebase,git,githubactions&theme=dark&perline=8" alt="Linux, AWS, Docker, PostgreSQL, MongoDB, Firebase, Git, GitHub Actions" />
+
+### Application Layer
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,flask,tailwind,vite,vercel&theme=dark&perline=8" alt="Next.js, React, Node.js, FastAPI, Flask, Tailwind CSS, Vite, Vercel" />
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### `SYSTEMS`
+
+* Win32 window behaviour
+* GPU rendering pipelines
+* concurrent network servers
+* Linux environments
+* containers and automation
+
+</td>
+<td width="33%" valign="top">
+
+### `SECURITY`
+
+* IAM and least privilege
+* command policy enforcement
+* security telemetry
+* anomaly and threat detection
+* defensive tooling
+
+</td>
+<td width="33%" valign="top">
+
+### `ENGINEERING`
+
+* API and backend development
+* full-stack product delivery
+* observability and logging
+* technical documentation
+* rapid prototyping
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## `05 // BUILD.LOG`
+
+```text
+2026 ─┬─ SENSEFORGE ............ native perceptual runtime / Rust + GPU
+      ├─ VITAL ................. AI health system / 4th-place hackathon finish
+      ├─ Permission-Guard ...... IAM posture and least-privilege analysis
+      ├─ Agent-Seatbelt ........ policy enforcement for AI agent actions
+      ├─ Threat Pipeline ....... detection + storage + operational telemetry
+      ├─ SSH Threat Monitor .... distributed access anomaly detection
+      └─ HTTP Server ........... multithreaded networking in C
+```
+
+<br />
+
+## `06 // CURRENT.OBJECTIVES`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Now building
+
+* pushing **SENSEFORGE** from prototype into a coherent runtime
+* experimenting with AI systems that have explicit execution boundaries
+* strengthening Linux, networking, cloud, and infrastructure fundamentals
+* making project documentation as strong as the implementation
+
+</td>
+<td width="50%" valign="top">
+
+### Next checkpoint
+
+* secure a strong **Winter 2027 co-op**
+* contribute meaningful changes to defensive open source
+* operate a homelab with useful telemetry and alerts
+* ship one project that earns real external users
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## `07 // GITHUB.TELEMETRY`
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kenjiifx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=050816&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&ring_color=38BDF8" alt="Moosa's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiifx&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=38BDF8&text_color=CBD5E1" alt="Moosa's most used languages" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=kenjiifx&theme=dark&hide_border=true&background=0a0014&ring=00f0ff&fire=ff00c8&currStreakLabel=8957e5&sideNums=e6e6e6&dates=8b8b8b" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=kenjiifx&hide_border=true&background=050816&ring=38BDF8&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=A78BFA&dates=64748B" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kenjiifx&theme=react-dark&bg_color=0a0014&color=00f0ff&line=ff00c8&point=8957e5&hide_border=true&area=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kenjiifx&bg_color=050816&color=94A3B8&line=38BDF8&point=A78BFA&area=true&area_color=0EA5E9&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="GitHub contribution graph" />
 </p>
 
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=kenjiifx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
+<br />
 
-<br/>
-
-<!-- =========================================================
-                       Contribution Snake
-   ========================================================= -->
-## <samp>&gt; ~/snake.exe --neon-mode</samp>
+## `08 // CONTRIBUTION.SNAKE`
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenjiifx/kenjiifx/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenjiifx/kenjiifx/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/kenjiifx/kenjiifx/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/kenjiifx/kenjiifx/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
-<br/>
+<br />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8957e5&center=true&vCenter=true&width=700&lines=%22It's+not+broken%2C+it's+in+a+temporary+degraded+state%22;%22Secure+by+default%2C+or+it+doesn't+ship%22;thanks+for+scrolling+this+far+%F0%9F%91%80" alt="footer quote" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:8957e5,50:00f0ff,75:ff00c8,100:0a0014&height=140&section=footer&animation=twinkling" />
-</p>
+## `09 // ESTABLISH.CONNECTION`
 
-<p align="right"><a href="#readme-top">⬆ back to top</a></p>
+**I am looking for teams building serious software around infrastructure, security, developer systems, applied AI, or technically ambitious products.**
+
+<a href="mailto:moosahameed07@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-38BDF8?style=for-the-badge&logo=gmail&logoColor=050816" alt="Email Moosa" /></a> <a href="https://www.linkedin.com/in/moosa-alam"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=050816" alt="Connect on LinkedIn" /></a>
+
+<br /><br />
+
+```text
+Build beyond the interface. Understand the system beneath it.
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:050816,45:0EA5E9,75:8B5CF6,100:050816" alt="Footer" />
+
+<a href="#readme-top">Return to top ↑</a>
+
+</div>
